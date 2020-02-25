@@ -7,6 +7,8 @@
   pointer-events: none;
 }
 
+.App img { max-width: 4in; max-height: 4in;}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
