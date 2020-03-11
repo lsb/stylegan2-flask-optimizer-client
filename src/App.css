@@ -9,6 +9,8 @@
 
 .App img { max-width: 4in; max-height: 4in;}
 
+.App .iuib { display: inline-block }
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
